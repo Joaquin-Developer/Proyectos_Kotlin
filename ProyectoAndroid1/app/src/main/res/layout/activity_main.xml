@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+    <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="317dp"
+            tools:layout_editor_absoluteX="230dp" tools:ignore="MissingConstraints">
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="hint" tools:layout_editor_absoluteY="192dp" app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/inputNum1" tools:ignore="MissingConstraints"/>
+    <TextView
+            android:text="Numero1:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="155dp"
+            tools:layout_editor_absoluteX="17dp" android:id="@+id/textViewNum1" tools:ignore="MissingConstraints"/>
+    <TextView
+            android:text="Numero 2: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="262dp"
+            tools:layout_editor_absoluteX="17dp" android:id="@+id/textViewNum2" tools:ignore="MissingConstraints"/>
+    <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="319dp"
+            tools:layout_editor_absoluteX="15dp" tools:ignore="MissingConstraints">
+
+        <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="hint" android:id="@+id/inputNum2"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <Button
+            android:text="Sumar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="411dp"
+            tools:layout_editor_absoluteX="154dp" android:id="@+id/buttonSuma" tools:ignore="MissingConstraints"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
