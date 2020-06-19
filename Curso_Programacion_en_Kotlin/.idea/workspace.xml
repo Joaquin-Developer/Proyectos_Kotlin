@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90c3e11e-cb5b-4669-afd0-c6a62d2a082a" name="Default Changelist" comment="" />
+    <list default="true" id="90c3e11e-cb5b-4669-afd0-c6a62d2a082a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidad4/Clase6_Funciones_con_Param_Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidad4/Clase6_Funciones_con_Param_Arrays.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YpDhEyL02e4HKprGnuqnUnRkZh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.Clase2_EjercicioPOO_TrianguloKt">
+  <component name="RunManager" selected="Kotlin.Clase3_Llamada_a_metodos_desde_otro_metodoKt">
     <configuration name="Clase1_Introduccion_POOKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Curso_Programacion_en_Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -40,6 +47,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Unidad5.Clase1_Introduccion_POOKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase2_EjercicioPOO_AlumnoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Programacion_en_Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Unidad5.Clase2_EjercicioPOO_AlumnoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,14 +78,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase6_Funciones_con_Param_ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Clase3_Llamada_a_metodos_desde_otro_metodoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Curso_Programacion_en_Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad4.Clase6_Funciones_con_Param_ArraysKt" />
+      <option name="MAIN_CLASS_NAME" value="Unidad5.Clase3_Llamada_a_metodos_desde_otro_metodoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unidad4.Clase5_Arrays_For_Ejercicio5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Curso_Programacion_en_Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad4.Clase5_Arrays_For_Ejercicio5Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Clase3_Llamada_a_metodos_desde_otro_metodoKt" />
+        <item itemvalue="Kotlin.Clase2_EjercicioPOO_AlumnoKt" />
         <item itemvalue="Kotlin.Clase2_EjercicioPOO_TrianguloKt" />
         <item itemvalue="Kotlin.Clase1_Introduccion_POOKt" />
         <item itemvalue="Kotlin.Clase7_Ejercicio_Arrays_en_FuncionKt" />
-        <item itemvalue="Kotlin.Clase6_Funciones_con_Param_ArraysKt" />
-        <item itemvalue="Kotlin.Unidad4.Clase5_Arrays_For_Ejercicio5Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +128,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592521695545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1592521695545" />
     <state x="100" y="100" width="1166" height="528" key="DiffContextDialog" timestamp="1586544765022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -129,22 +140,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587083029702" />
-    <state width="1323" height="344" key="GridCell.Tab.0.bottom" timestamp="1587609227752">
+    <state width="1323" height="344" key="GridCell.Tab.0.bottom" timestamp="1592529745522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587609227752" />
-    <state width="1323" height="344" key="GridCell.Tab.0.center" timestamp="1587609227752">
+    <state width="1323" height="344" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592529745522" />
+    <state width="1323" height="344" key="GridCell.Tab.0.center" timestamp="1592529745522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587609227752" />
-    <state width="1323" height="344" key="GridCell.Tab.0.left" timestamp="1587609227752">
+    <state width="1323" height="344" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592529745522" />
+    <state width="1323" height="344" key="GridCell.Tab.0.left" timestamp="1592529745522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587609227752" />
-    <state width="1323" height="344" key="GridCell.Tab.0.right" timestamp="1587609227752">
+    <state width="1323" height="344" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592529745522" />
+    <state width="1323" height="344" key="GridCell.Tab.0.right" timestamp="1592529745522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587609227752" />
+    <state width="1323" height="344" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592529745522" />
     <state x="117" y="20" key="SettingsEditor" timestamp="1587071234664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

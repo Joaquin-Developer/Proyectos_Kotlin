@@ -20,9 +20,6 @@ todo|Parte 2 del ejercicio: Se desea almacenar los sueldos de operarios. Cuando 
     la cantidad de sueldos a ingresar. Luego crear un arreglo con dicho tamaño.
     Definir una función de carga y otra de impresión */
 fun main(args:Array<String>){
-    //val numeros : IntArray = IntArray(5)    //declaro nombre, tipo y tamaño de array en una sola línea.
-    //cargarArray(numeros)
-    //imprimirArray(numeros)
     sueldos()
 }
 private fun sueldos(){
