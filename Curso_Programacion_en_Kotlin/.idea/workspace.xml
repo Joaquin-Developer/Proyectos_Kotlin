@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="90c3e11e-cb5b-4669-afd0-c6a62d2a082a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidad4/Clase6_Funciones_con_Param_Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidad4/Clase6_Funciones_con_Param_Arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidad5/Clase7_POO_Dataclass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidad5/Clase7_POO_Dataclass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +38,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.Clase3_Llamada_a_metodos_desde_otro_metodoKt">
-    <configuration name="Clase1_Introduccion_POOKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Clase11_POO_HerenciaKt">
+    <configuration name="Clase10_POO_Objeto_nombradoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Curso_Programacion_en_Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad5.Clase1_Introduccion_POOKt" />
+      <option name="MAIN_CLASS_NAME" value="Unidad5.Clase10_POO_Objeto_nombradoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase11_POO_HerenciaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Programacion_en_Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Unidad5.Clase11_POO_HerenciaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,19 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase2_EjercicioPOO_TrianguloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Curso_Programacion_en_Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad5.Clase2_EjercicioPOO_TrianguloKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Clase3_Llamada_a_metodos_desde_otro_metodoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Curso_Programacion_en_Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -91,14 +91,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase7_Ejercicio_Arrays_en_FuncionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Clase8_POO_Ejemplo_dataclassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Curso_Programacion_en_Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad4.Clase7_Ejercicio_Arrays_en_FuncionKt" />
+      <option name="MAIN_CLASS_NAME" value="Unidad5.Clase8_POO_Ejemplo_dataclassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Clase11_POO_HerenciaKt" />
+        <item itemvalue="Kotlin.Clase10_POO_Objeto_nombradoKt" />
+        <item itemvalue="Kotlin.Clase8_POO_Ejemplo_dataclassKt" />
         <item itemvalue="Kotlin.Clase3_Llamada_a_metodos_desde_otro_metodoKt" />
         <item itemvalue="Kotlin.Clase2_EjercicioPOO_AlumnoKt" />
-        <item itemvalue="Kotlin.Clase2_EjercicioPOO_TrianguloKt" />
-        <item itemvalue="Kotlin.Clase1_Introduccion_POOKt" />
-        <item itemvalue="Kotlin.Clase7_Ejercicio_Arrays_en_FuncionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +140,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587083029702" />
-    <state width="1323" height="344" key="GridCell.Tab.0.bottom" timestamp="1592529745522">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1592605076738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592529745522" />
-    <state width="1323" height="344" key="GridCell.Tab.0.center" timestamp="1592529745522">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592605076738" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1592605076738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592529745522" />
-    <state width="1323" height="344" key="GridCell.Tab.0.left" timestamp="1592529745522">
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592605076738" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1592605076738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592529745522" />
-    <state width="1323" height="344" key="GridCell.Tab.0.right" timestamp="1592529745522">
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592605076738" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1592605076738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592529745522" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592605076738" />
     <state x="117" y="20" key="SettingsEditor" timestamp="1587071234664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

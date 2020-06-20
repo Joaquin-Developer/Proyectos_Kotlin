@@ -16,6 +16,7 @@ Ejercicio1: Declarar un data class llamado Articulo que almacene el código del 
 y precio. Definir luego varios objetos de dicha data class en la main
  **/
 
+/* Declaración de un dataclass: */
 private data class Articulo(var codigo: Int, var descripcion: String, var precio: Float)
 
 fun main(args: Array<String>) {
