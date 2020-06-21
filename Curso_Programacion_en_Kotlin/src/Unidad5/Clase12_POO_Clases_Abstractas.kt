@@ -88,6 +88,3 @@ class PlazoFijo(titular: String, monto: Double, val plazo: Int, val interes: Dou
 //    val plazoFijo1 = PlazoFijo("Ana", 5000.0, 30, 1.23)
 //    plazoFijo1.imprimir()
 //}
-
-
-
