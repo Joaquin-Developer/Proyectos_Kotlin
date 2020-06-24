@@ -23,9 +23,6 @@ String con las siguientes restricciones:
     Un String con todos los caracteres no alfabéticos
  **/
 
-
-
-
 fun higherOrder(cadena: String, fn: (Char) -> Boolean): String{
     var cad = StringBuilder()
     for(l in cadena)
@@ -51,7 +48,7 @@ fun main(args: Array<String>) {
     }
     println("String con carácteres en minúscula: ")
     higherOrder(palabraRandom) {
-        if(c in 'a'..'z'){
+        if(it in 'a'..'z'){
             true
         }else{
             false
@@ -60,11 +57,10 @@ fun main(args: Array<String>) {
 
     println("String con todos los caracteres no alfabéticos: ")
     higherOrder(palabraRandom) {
-        if (c !in 'A'..'Z' && c !in 'a'..'z')
+        if (it !in 'A'..'Z' && it !in 'a'..'z')
             true
         else
             false
     }
-
 }
 

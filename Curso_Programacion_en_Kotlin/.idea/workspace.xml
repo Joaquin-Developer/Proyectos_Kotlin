@@ -3,46 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="90c3e11e-cb5b-4669-afd0-c6a62d2a082a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/androidTest/java/com/example/proyectoandroid1/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/java/com/example/proyectoandroid1/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/test/java/com/example/proyectoandroid1/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unidad2_Programacion_Kotlin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidad6/Clase5_Ejercicio3_Lambda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidad6/Clase5_Ejercicio3_Lambda.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
