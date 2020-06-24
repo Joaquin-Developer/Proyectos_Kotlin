@@ -3,7 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" id="90c3e11e-cb5b-4669-afd0-c6a62d2a082a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidad5/Clase12_POO_Clases_Abstractas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidad5/Clase12_POO_Clases_Abstractas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/androidTest/java/com/example/proyectoandroid1/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/java/com/example/proyectoandroid1/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/app/src/test/java/com/example/proyectoandroid1/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoAndroid1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad2_Programacion_Kotlin/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,10 +203,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="85" y="128" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587083065193" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592695069701">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1593035705865">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592695069701" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593035705865" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593035849448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593035849448" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
