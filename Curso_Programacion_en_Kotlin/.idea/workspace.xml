@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90c3e11e-cb5b-4669-afd0-c6a62d2a082a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso_Programacion_en_Kotlin/META-INF/Curso_Programacion_en_Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso_Programacion_en_Kotlin/META-INF/Curso_Programacion_en_Kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso_Programacion_en_Kotlin/Unidad7/Clase1_Introduccion_sobrecarga_operadoresKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso_Programacion_en_Kotlin/Unidad7/Clase1_Introduccion_sobrecarga_operadoresKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso_Programacion_en_Kotlin/Unidad7/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso_Programacion_en_Kotlin/Unidad7/Vector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidad7/Clase1_Introduccion_sobrecarga_operadores.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidad7/Clase1_Introduccion_sobrecarga_operadores.kt" afterDir="false" />
-    </list>
+    <list default="true" id="90c3e11e-cb5b-4669-afd0-c6a62d2a082a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
