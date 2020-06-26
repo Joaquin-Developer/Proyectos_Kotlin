@@ -1,7 +1,4 @@
 package Unidad7
-
-import Unidad6.mult
-
 /**
  * Created by JoaquínParrilla on 25/06/2020.
  * Clase 1: Sobrecarga de Operadores - Introducción
