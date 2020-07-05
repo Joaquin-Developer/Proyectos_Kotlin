@@ -28,8 +28,6 @@ class Dados{
 
 }
 
-
-
 fun main(args: Array<String>) {
     val unDado = Dados()
 
@@ -45,3 +43,4 @@ fun main(args: Array<String>) {
     unDado.imprime()    // mismo resultado que "for ... unDado(i)" de arriba
 
 }
+

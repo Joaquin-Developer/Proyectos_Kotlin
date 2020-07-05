@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90c3e11e-cb5b-4669-afd0-c6a62d2a082a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../App1" beforeDir="false" afterPath="$PROJECT_DIR$/../App1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidad7/Clase5_Sobrecarga_oper_Ej_TaTeTi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidad7/Clase5_Sobrecarga_oper_Ej_TaTeTi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidad7/Clase6_Sobrecarga_Parantesis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidad7/Clase6_Sobrecarga_Parantesis.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,54 +39,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.Clase6_Sobrecarga_ParantesisKt">
-    <configuration name="Clase2_Sobrecarga_operad_Ejer2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Clase10_Valores_Nulos_en_KotlinKt">
+    <configuration name="Clase10_Valores_Nulos_en_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Curso_Programacion_en_Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad7.Clase2_Sobrecarga_operad_Ejer2Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Clase3_Sobrecarga_Ejerc3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Curso_Programacion_en_Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad7.Clase3_Sobrecarga_Ejerc3Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Clase4_Sobrecarga_oper_logicosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Curso_Programacion_en_Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad7.Clase4_Sobrecarga_oper_logicosKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Clase5_Sobrecarga_oper_Ej_TaTeTiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Curso_Programacion_en_Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Unidad7.Clase5_Sobrecarga_oper_Ej_TaTeTiKt" />
+      <option name="MAIN_CLASS_NAME" value="Unidad7.Clase10_Valores_Nulos_en_KotlinKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,13 +66,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Clase7_Ejercicio_SobrecargaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Programacion_en_Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Unidad7.Clase7_Ejercicio_SobrecargaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase8_Fun_nroParam_variablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Programacion_en_Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Unidad7.Clase8_Fun_nroParam_variablesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase9_Ej2_nroVariable_param_funKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Programacion_en_Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Unidad7.Clase9_Ej2_nroVariable_param_funKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Clase10_Valores_Nulos_en_KotlinKt" />
+        <item itemvalue="Kotlin.Clase9_Ej2_nroVariable_param_funKt" />
+        <item itemvalue="Kotlin.Clase7_Ejercicio_SobrecargaKt" />
+        <item itemvalue="Kotlin.Clase8_Fun_nroParam_variablesKt" />
         <item itemvalue="Kotlin.Clase6_Sobrecarga_ParantesisKt" />
-        <item itemvalue="Kotlin.Clase5_Sobrecarga_oper_Ej_TaTeTiKt" />
-        <item itemvalue="Kotlin.Clase4_Sobrecarga_oper_logicosKt" />
-        <item itemvalue="Kotlin.Clase3_Sobrecarga_Ejerc3Kt" />
-        <item itemvalue="Kotlin.Clase2_Sobrecarga_operad_Ejer2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -140,30 +141,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587083029702" />
-    <state width="1323" height="551" key="GridCell.Tab.0.bottom" timestamp="1593218385296">
+    <state width="1323" height="256" key="GridCell.Tab.0.bottom" timestamp="1593986572080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="551" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593218385296" />
-    <state width="1323" height="551" key="GridCell.Tab.0.center" timestamp="1593218385296">
+    <state width="1323" height="256" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593986572080" />
+    <state width="1323" height="256" key="GridCell.Tab.0.center" timestamp="1593986572079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="551" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593218385296" />
-    <state width="1323" height="551" key="GridCell.Tab.0.left" timestamp="1593218385296">
+    <state width="1323" height="256" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593986572079" />
+    <state width="1323" height="256" key="GridCell.Tab.0.left" timestamp="1593986572079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="551" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593218385296" />
-    <state width="1323" height="551" key="GridCell.Tab.0.right" timestamp="1593218385296">
+    <state width="1323" height="256" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593986572079" />
+    <state width="1323" height="256" key="GridCell.Tab.0.right" timestamp="1593986572079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="551" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593218385296" />
+    <state width="1323" height="256" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593986572079" />
     <state x="117" y="20" key="SettingsEditor" timestamp="1587071234664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="117" y="20" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587071234664" />
-    <state x="85" y="128" key="new project wizard" timestamp="1587083065193">
+    <state x="85" y="128" key="new project wizard" timestamp="1593373571675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="85" y="128" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587083065193" />
+    <state x="85" y="128" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593373571675" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1593099013437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
